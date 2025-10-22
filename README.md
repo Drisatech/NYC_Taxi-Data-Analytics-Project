@@ -61,4 +61,5 @@ The analysis revealed several key insights into NYC taxi trips during January an
 
 ## Contact
 
-For questions or further information, please contact [Your Name/Email].
+
+For questions or further information, please contact Engr Idris Aliyu - drisatech@gmail.com.
